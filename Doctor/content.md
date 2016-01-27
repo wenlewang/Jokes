@@ -13,3 +13,9 @@ The difference between a neurotic and a psychotic is that, while a psychotic thi
 
 Doctor, Doctor, I've got wind! Can you give me something?
 Yes – here's a kite!
+
+
+
+Doctor, Doctor, I'm really sick
+Flu?
+No, I drove.
