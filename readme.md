@@ -10,3 +10,7 @@ Do not expect any funny jokes here.
 
 ## Lawyer Jokes
 [Lawyers](Lawyers/content.md)
+
+#Contributors
+1. Vincent
+2. 
