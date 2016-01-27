@@ -13,4 +13,3 @@ Do not expect any funny jokes here.
 
 #Contributors
 1. Vincent
-2. 
