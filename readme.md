@@ -16,3 +16,9 @@ Do not expect any funny jokes here.
 2. Chengqing Zhou (claudezhou)
 3. Chen Chen
 4. Yaohan Zheng
+
+#Thanks to
+1. Henny Youngman
+2. Buddy Hackett
+3. Alan King
+4. Jerry Lewis
