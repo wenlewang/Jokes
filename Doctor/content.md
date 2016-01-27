@@ -5,3 +5,5 @@ Pull your self together.
 Doctor Doctor I keep dreaming of Teepees and Wigwams
 You are two tense
 
+Doctor it hurts when I do this.
+Don't do that.
