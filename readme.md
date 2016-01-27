@@ -10,3 +10,6 @@ Do not expect any funny jokes here.
 
 ## Lawyer Jokes
 [Lawyers](Lawyers/content.md)
+
+## Fishing Jokes
+[Fishing](Fishing/content.md)
