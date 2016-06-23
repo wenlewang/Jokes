@@ -32,3 +32,10 @@ Canoe.
 Canoe who?
 
 Canoe help me with my homework?
+
+#4 
+Knock, knock. 
+Who’s there? 
+Atch. 
+Atch who? 
+Bless you!
