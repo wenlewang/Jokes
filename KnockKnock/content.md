@@ -32,3 +32,14 @@ Canoe.
 Canoe who?
 
 Canoe help me with my homework?
+
+#4 
+Knock, knock.
+
+Who’s there?
+
+Orange.
+
+Orange who?
+
+Orange you going to let me in?
