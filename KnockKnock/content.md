@@ -34,6 +34,17 @@ Canoe who?
 Canoe help me with my homework?
 
 #4 
+Knock, knock.
+
+Who’s there?
+
+Orange.
+
+Orange who?
+
+Orange you going to let me in?
+
+#5
 Knock, knock. 
 
 Who’s there? 
@@ -44,7 +55,8 @@ Atch who?
 
 Bless you!
 
-#5
+
+#6
 Knock! Knock!
 
 Who’s there?
