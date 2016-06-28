@@ -43,3 +43,26 @@ Orange.
 Orange who?
 
 Orange you going to let me in?
+
+#5
+Knock, knock. 
+
+Who’s there? 
+
+Atch. 
+
+Atch who? 
+
+Bless you!
+
+
+#6
+Knock! Knock!
+
+Who’s there?
+
+Scold.
+
+Scold who?
+
+Scold outside—let me in!

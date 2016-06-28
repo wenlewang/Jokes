@@ -20,3 +20,5 @@ Do not expect any funny jokes here.
 4. Yaohan Zheng
 ##New Contributors
 1. Kris Berg
+2. Yves Boudreault
+3. Julien Huel
