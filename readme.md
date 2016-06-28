@@ -1,4 +1,3 @@
-# Jokes
 This is a repository of Jokes used as part of a crash course in git and GitHub.
 Do not expect any funny jokes here.
 
@@ -22,3 +21,4 @@ Do not expect any funny jokes here.
 ##New Contributors
 1. Yves Boudreault
 2. Julien Huel
+3. Kris Berg
