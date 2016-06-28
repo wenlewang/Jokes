@@ -15,7 +15,7 @@ Do not expect any funny jokes here.
 [Science](Science/content.md)
 
 #Contributors
-1. Vincent
+1. Vincent Ramdhanie
 2. Chengqing Zhou (claudezhou)
 3. Chen Chen
 4. Yaohan Zheng
