@@ -1,4 +1,3 @@
-# Jokes
 This is a repository of Jokes used as part of a crash course in git and GitHub.
 Do not expect any funny jokes here.
 
@@ -19,4 +18,5 @@ Do not expect any funny jokes here.
 2. Chengqing Zhou (claudezhou)
 3. Chen Chen
 4. Yaohan Zheng
-5. Kris Berg
+##New Contributors
+1. Kris Berg
