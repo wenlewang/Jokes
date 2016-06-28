@@ -19,7 +19,11 @@ Do not expect any funny jokes here.
 2. Chengqing Zhou (claudezhou)
 3. Chen Chen
 4. Yaohan Zheng
+<<<<<<< HEAD
+
+=======
 ##New Contributors
 1. 
 2. Yves Boudreault
 3. Julien Huel
+>>>>>>> master
