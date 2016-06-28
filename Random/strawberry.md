@@ -1,0 +1,2 @@
+Q. How do you make a strawberry shake?
+A. Put it in the freezer.
