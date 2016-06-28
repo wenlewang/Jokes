@@ -35,7 +35,22 @@ Canoe help me with my homework?
 
 #4 
 Knock, knock. 
+
 Who’s there? 
+
 Atch. 
+
 Atch who? 
+
 Bless you!
+
+#5
+Knock! Knock!
+
+Who’s there?
+
+Scold.
+
+Scold who?
+
+Scold outside—let me in!
