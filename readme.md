@@ -13,6 +13,10 @@ Do not expect any funny jokes here.
 ## Science Jokes
 [Science](Science/content.md)
 
+## One Liners
+[One Liners](OneLiners/content.md)
+
+
 #Contributors
 1. Vincent Ramdhanie
 2. Chengqing Zhou (claudezhou)
