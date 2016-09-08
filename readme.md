@@ -31,5 +31,6 @@ Do not expect any funny jokes here.
 3. Kris Berg
 4. Andrei Aniculaesei
 5. Matthew Carpenter
-6. ADD YOUR NAME HERE
+6. Jan
+7. ADD YOUR NAME HERE
 
