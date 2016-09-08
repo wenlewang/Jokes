@@ -1,0 +1,4 @@
+An engineer, a physicist and a mathematician were asked to hammer a nail into a wall. 
+The engineer went to build a Universal Automatic Nailer -- a device able to hammer every possible nail into every possible wall. 
+The physicist conducted series of experiments on strength of hammers, nails, and walls and developed a revolutionary technology of ultra-sonic nail hammering at super-low temperature. 
+The mathematician generalized the problem to a N dimensional problem of penetration of a knotted one dimensional nail into a N-1 dimensional hyper-wall. Several fundamental theorems are proved. Of course, the problem is too rich to suggest a possibility of a simple solution, even the existence of a solution is far from obvious. 
