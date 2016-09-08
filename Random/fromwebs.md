@@ -10,5 +10,6 @@ Q:What do you call an alligator in a vest?
 A:An Investigator
 
 
+I used to think the brain was the most important organ. Then I thought, look what’s telling me that.
 
-
+Did you hear about the new corduroy pillows? They’re making headlines everywhere!
