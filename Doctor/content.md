@@ -12,4 +12,7 @@ The difference between a neurotic and a psychotic is that, while a psychotic thi
 
 
 Doctor, Doctor, I've got wind! Can you give me something?
-Yes – here's a kite!
+Yes ï¿½ here's a kite!
+
+"Doctor doctor; I only got sixty seconds to live ..."
+"Can you wait there for a minute please!"
