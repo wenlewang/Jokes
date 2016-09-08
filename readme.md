@@ -16,9 +16,8 @@ Do not expect any funny jokes here.
 ## One Liners
 [One Liners](OneLiners/content.md)
 
-## DoctorJokes
+## Doctor Jokes
 [Doctor](Doctor/content.md)
-
 
 #Contributors
 1. Vincent Ramdhanie
@@ -30,5 +29,6 @@ Do not expect any funny jokes here.
 1. Yves Boudreault
 2. Julien Huel
 3. Kris Berg
-4. Jan
+4. Andrei Aniculaesei
+5. Jan
 
