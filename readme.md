@@ -16,9 +16,8 @@ Do not expect any funny jokes here.
 ## One Liners
 [One Liners](OneLiners/content.md)
 
-## DoctorJokes
+## Doctor Jokes
 [Doctor](Doctor/content.md)
-
 
 #Contributors
 1. Vincent Ramdhanie
