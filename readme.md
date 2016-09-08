@@ -29,6 +29,7 @@ Do not expect any funny jokes here.
 1. Yves Boudreault
 2. Julien Huel
 3. Kris Berg
+4. Kristin Dalzell
 4. Andrei Aniculaesei
 5. Matthew Carpenter
 6. Jan
