@@ -34,4 +34,6 @@ Do not expect any funny jokes here.
 5. Matthew Carpenter
 6. Jan
 7. Vincent L.
-8. ADD YOUR NAME HERE
+8. Marc Ouellette
+9. ADD YOUR NAME HERE
+
