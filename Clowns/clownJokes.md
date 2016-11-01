@@ -1,0 +1,3 @@
+Why don't cannibals eat clowns?
+
+because they taste funny.
