@@ -20,8 +20,17 @@ Do not expect any funny jokes here.
 [Doctor](Doctor/content.md)
 
 
+<<<<<<< HEAD
+## Random
+[Random](Random/content.md)
+
+
+##Clown Jokes
+clowns/clown_jokes.md
+=======
 ##Clown Jokes
 [Clowns](clowns/clown_jokes.md)
+>>>>>>> master
 
 ## Random
 [Random](Random/content.md)
@@ -42,8 +51,16 @@ Do not expect any funny jokes here.
 5. Matthew Carpenter
 6. Jan
 7. Vincent L.
+9 Manny
+8. Carlos Carpintero.
+9. Theresia Hansson
+10. ADD YOUR NAME HERE but leave this line
+10. Carlos Carpintero.
+11 Manny
+11. ADD YOUR NAME HERE but leave this lin
 8. Elena de Catalina
 9. Theresia Hansson
 10. Carlos Carpintero.
 11. Marc Ouellette
 12. ADD YOUR NAME HERE but leave this line
+>>>>>>> master
