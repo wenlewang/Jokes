@@ -19,8 +19,13 @@ Do not expect any funny jokes here.
 ## Doctor Jokes
 [Doctor](Doctor/content.md)
 
+
+##Clown Jokes
+[Clowns](clowns/clown_jokes.md)
+
 ## Random
 [Random](Random/content.md)
+
 
 #Contributors
 1. Vincent Ramdhanie
@@ -39,4 +44,7 @@ Do not expect any funny jokes here.
 7. Vincent L.
 8. Elena de Catalina
 9. Theresia Hansson
+10. Carlos Carpintero.
+11. ADD YOUR NAME HERE but leave this line
+
 
