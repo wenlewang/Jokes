@@ -37,4 +37,9 @@ Do not expect any funny jokes here.
 5. Matthew Carpenter
 6. Jan
 7. Vincent L.
+<<<<<<< HEAD
 8. Elena de Catalina
+=======
+8. Theresia Hansson
+9. ADD YOUR NAME HERE
+>>>>>>> master
