@@ -20,7 +20,7 @@ Do not expect any funny jokes here.
 [Doctor](Doctor/content.md)
 
 ## Random
-blaha blaha
+[Random](Random/content.md)
 
 #Contributors
 1. Vincent Ramdhanie
