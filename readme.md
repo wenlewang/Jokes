@@ -19,6 +19,9 @@ Do not expect any funny jokes here.
 ## Doctor Jokes
 [Doctor](Doctor/content.md)
 
+##Clown Jokes
+[Clown](clowns/clown_jokes.md)
+
 ## Random
 [Random](Random/content.md)
 
@@ -37,5 +40,6 @@ Do not expect any funny jokes here.
 5. Matthew Carpenter
 6. Jan
 7. Vincent L.
-8. Theresia Hansson
-9. ADD YOUR NAME HERE BUT LEAVE THIS LINE
+8. Carlos Carpintero.
+9. Theresia Hansson
+10. ADD YOUR NAME HERE but leave this line
