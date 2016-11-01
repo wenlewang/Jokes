@@ -8,3 +8,6 @@ Answer: round
 Why can’t you hear a pterodactyl go to the bathroom? Because the 'P' is silent.
 
 
+
+Q: Why do I not know any jokes?
+A: Because I'm not funny.
