@@ -19,8 +19,13 @@ Do not expect any funny jokes here.
 ## Doctor Jokes
 [Doctor](Doctor/content.md)
 
+<<<<<<< HEAD
 ##Clown Jokes
 clowns/clown_jokes.md
+=======
+## Random
+[Random](Random/content.md)
+>>>>>>> master
 
 #Contributors
 1. Vincent Ramdhanie
@@ -38,3 +43,6 @@ clowns/clown_jokes.md
 6. Jan
 7. Vincent L.
 8. Carlos Carpintero.
+9. Theresia Hansson
+10. ADD YOUR NAME HERE but leave this line
+
