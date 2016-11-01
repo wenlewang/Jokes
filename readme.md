@@ -19,8 +19,17 @@ Do not expect any funny jokes here.
 ## Doctor Jokes
 [Doctor](Doctor/content.md)
 
+
 ## Random
 [Random](Random/content.md)
+=======
+
+##Clown Jokes
+clowns/clown_jokes.md
+
+## Random
+[Random](Random/content.md)
+
 
 #Contributors
 1. Vincent Ramdhanie
@@ -38,5 +47,8 @@ Do not expect any funny jokes here.
 6. Jan
 7. Vincent L.
 9 Manny
+8. Carlos Carpintero.
+9. Theresia Hansson
+10. ADD YOUR NAME HERE but leave this line
 
 
