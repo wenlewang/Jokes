@@ -22,7 +22,7 @@ Do not expect any funny jokes here.
 
 ## Random
 [Random](Random/content.md)
-=======
+
 
 ##Clown Jokes
 clowns/clown_jokes.md
@@ -50,5 +50,9 @@ clowns/clown_jokes.md
 8. Carlos Carpintero.
 9. Theresia Hansson
 10. ADD YOUR NAME HERE but leave this line
+10. Carlos Carpintero.
+11 Manny
+11. ADD YOUR NAME HERE but leave this line
+Stashed changes
 
 
