@@ -19,6 +19,9 @@ Do not expect any funny jokes here.
 ## Doctor Jokes
 [Doctor](Doctor/content.md)
 
+## Random
+[Random](Random/content.md)
+
 #Contributors
 1. Vincent Ramdhanie
 2. Chengqing Zhou (claudezhou)
@@ -34,5 +37,6 @@ Do not expect any funny jokes here.
 5. Matthew Carpenter
 6. Jan
 7. Vincent L.
-8. ADD YOUR NAME HERE
 9 Manny
+
+
