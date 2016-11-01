@@ -23,7 +23,7 @@ Do not expect any funny jokes here.
 [Random](Random/content.md)
 
 #Contributors
-1. Vincent Ramdhanie
+1. Vincent Ramdhanie <--- Owner
 2. Chengqing Zhou (claudezhou)
 3. Chen Chen
 4. Yaohan Zheng
