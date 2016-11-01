@@ -14,3 +14,6 @@ A: With a tuba glue.
 
 Q: Why kids are always complaining
 A: to show love
+
+Q: Why do kids have a hard time hgetting up early
+A : cause they're like me
