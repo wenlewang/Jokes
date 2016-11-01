@@ -25,7 +25,6 @@ Do not expect any funny jokes here. But there are a few surprises.
 ## Random
 [Random](Random/content.md)
 
-#Contributors
 1. Vincent Ramdhanie <--- Owner
 2. Chengqing Zhou (claudezhou)
 3. Chen Chen
@@ -40,8 +39,9 @@ Do not expect any funny jokes here. But there are a few surprises.
 5. Matthew Carpenter
 6. Jan
 7. Vincent L.
-8. Elena de Catalina
+8. Carlos Carpintero.
 9. Theresia Hansson
-10. Carlos Carpintero.
-11. Marc Ouellette
-12. ADD YOUR NAME HERE but leave this line
+10. Marc Ouellette
+11. Manny
+12. Elena
+13. ADD YOUR NAME HERE but leave this line
