@@ -19,13 +19,13 @@ Do not expect any funny jokes here.
 ## Doctor Jokes
 [Doctor](Doctor/content.md)
 
-<<<<<<< HEAD
+
 ##Clown Jokes
-clowns/clown_jokes.md
-=======
+[Clowns](clowns/clown_jokes.md)
+
 ## Random
 [Random](Random/content.md)
->>>>>>> master
+
 
 #Contributors
 1. Vincent Ramdhanie
