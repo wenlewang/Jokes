@@ -1,5 +1,5 @@
 This is a repository of Jokes used as part of a crash course in git and GitHub.
-Do not expect any funny jokes here.
+Do not expect any funny jokes here. But there are a few surprises.
 
 ## Knock Knock Jokes
 [Knock Knock...](KnockKnock/content.md)
@@ -19,25 +19,13 @@ Do not expect any funny jokes here.
 ## Doctor Jokes
 [Doctor](Doctor/content.md)
 
-
-<<<<<<< HEAD
-## Random
-[Random](Random/content.md)
-
-
 ##Clown Jokes
-clowns/clown_jokes.md
-=======
-##Clown Jokes
-[Clowns](clowns/clown_jokes.md)
->>>>>>> master
+[Clown](clowns/clown_jokes.md)
 
 ## Random
 [Random](Random/content.md)
 
-
-#Contributors
-1. Vincent Ramdhanie
+1. Vincent Ramdhanie <--- Owner
 2. Chengqing Zhou (claudezhou)
 3. Chen Chen
 4. Yaohan Zheng
@@ -51,16 +39,9 @@ clowns/clown_jokes.md
 5. Matthew Carpenter
 6. Jan
 7. Vincent L.
-9 Manny
 8. Carlos Carpintero.
 9. Theresia Hansson
-10. ADD YOUR NAME HERE but leave this line
-10. Carlos Carpintero.
-11 Manny
-11. ADD YOUR NAME HERE but leave this lin
-8. Elena de Catalina
-9. Theresia Hansson
-10. Carlos Carpintero.
-11. Marc Ouellette
-12. ADD YOUR NAME HERE but leave this line
->>>>>>> master
+10. Marc Ouellette
+11. Manny
+12. Elena
+13. ADD YOUR NAME HERE but leave this line
