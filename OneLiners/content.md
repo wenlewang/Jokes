@@ -23,4 +23,8 @@ People are making end of world jokes like there's no tomorrow.
 I’ve decided to sell my Hoover - it was just collecting dust.
 
 #8
+I agreed with you we’d both be wrong.
+
+#9
 I went to buy some camouflage trousers the other day but I couldn't find any.
+
