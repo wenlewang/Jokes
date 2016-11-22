@@ -18,3 +18,9 @@ A missing letter can make a word of difference.
 
 #6
 People are making end of world jokes like there's no tomorrow.
+
+#7
+I’ve decided to sell my Hoover - it was just collecting dust.
+
+#8
+I went to buy some camouflage trousers the other day but I couldn't find any.
