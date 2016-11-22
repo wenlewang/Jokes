@@ -5,7 +5,7 @@ Answer: A polygon
 Question: What is a circle?
 Answer: round
 
-Why can’t you hear a pterodactyl go to the bathroom? Because the 'P' is silent.
+Why canï¿½t you hear a pterodactyl go to the bathroom? Because the 'P' is silent.
 
 
 
@@ -20,3 +20,6 @@ You: ?
 Me: Up Dog?
 You: What's "up dog"?
 Me: Not much! 
+
+A day without sunshine is like, night. 
+
