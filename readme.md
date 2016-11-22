@@ -44,7 +44,8 @@ Do not expect any funny jokes here. But there are a few surprises.
 10. Marc Ouellette
 11. Manny
 12. Elena
-13. Sebastien
-14. Karen Tam
-15. Stephen Yee
-16. ADD YOUR NAME HERE (Then move this line down one)
+13. Patrick hodoul aka hodoulp
+14. Stephen Yee
+15. Sebastien
+16. Karen Tam
+17. ADD YOUR NAME HERE (Then move this line down one)
