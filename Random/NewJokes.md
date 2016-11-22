@@ -11,3 +11,12 @@ Why can’t you hear a pterodactyl go to the bathroom? Because the 'P' is silent.
 
 Q: Why do I not know any jokes?
 A: Because I'm not funny.
+
+
+Chuck Norris doesn't do push ups. He pushes the world down.
+
+Me: Up dog?
+You: ?
+Me: Up Dog?
+You: What's "up dog"?
+Me: Not much! 

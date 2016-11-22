@@ -14,7 +14,20 @@ I just lost my mood ring...not sure how I feel about this.
 I'd be more apathetic if I weren't so lethargic
 
 #5
-I’ve decided to sell my Hoover - it was just collecting dust.
+A missing letter can make a word of difference.
 
 #6
+Chuck Norris has already been to Mars; that's why there are no signs of life.
+
+#7
+I agreed with you we’d both be wrong.
+
+#8
+People are making end of world jokes like there's no tomorrow.
+
+#9
+I’ve decided to sell my Hoover - it was just collecting dust.
+
+#10
 I went to buy some camouflage trousers the other day but I couldn't find any.
+
