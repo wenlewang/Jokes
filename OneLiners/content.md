@@ -15,3 +15,6 @@ I'd be more apathetic if I weren't so lethargic
 
 #5
 A missing letter can make a word of difference.
+
+#6
+People are making end of world jokes like there's no tomorrow.
