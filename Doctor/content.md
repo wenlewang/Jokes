@@ -16,3 +16,7 @@ Yes � here's a kite!
 
 "Doctor doctor; I only got sixty seconds to live ..."
 "Can you wait there for a minute please!"
+
+Q: Did you hear about the baby born in the high tech delivery room? 
+A: It was cordless! 
+

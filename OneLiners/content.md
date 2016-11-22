@@ -16,6 +16,9 @@ I'd be more apathetic if I weren't so lethargic
 #5
 Chuck Norris has already been to Mars; that's why there are no signs of life.
 
+I agreed with you we’d both be wrong.
+
+
 #6
 I’ve decided to sell my Hoover - it was just collecting dust.
 
