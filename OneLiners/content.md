@@ -31,3 +31,5 @@ I’ve decided to sell my Hoover - it was just collecting dust.
 #10
 I went to buy some camouflage trousers the other day but I couldn't find any.
 
+#11
+I had an argument with one of the Seven Dwarves. He wasn’t happy.
