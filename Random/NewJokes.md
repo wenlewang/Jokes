@@ -14,3 +14,9 @@ A: Because I'm not funny.
 
 
 Chuck Norris doesn't do push ups. He pushes the world down.
+
+Me: Up dog?
+You: ?
+Me: Up Dog?
+You: What's "up dog"?
+Me: Not much! 
