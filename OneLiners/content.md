@@ -36,3 +36,11 @@ I had an argument with one of the Seven Dwarves. He wasn’t happy.
 
 #12
 another oneliner..!
+
+#13 
+Le professeur demande 'a petit Joe de faire une Joke avec Carottr
+"Ma soeur a mangé des concombres hier`
+hein?
+...depuis ce temp là qua rotte..
+
+
