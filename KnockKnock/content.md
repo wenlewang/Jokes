@@ -1,4 +1,4 @@
-#1
+﻿#1
 Knock Knock
 
 Who's There?
@@ -86,3 +86,15 @@ Orange.
 Orange who?
 
 Orange you glad I didn't say "banana"?
+
+
+#9
+Knock! Knock!
+
+Who’s there?
+
+Bouddha.
+
+Bouddha who?
+
+Bouddha that bread for me please.
