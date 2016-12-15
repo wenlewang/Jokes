@@ -44,7 +44,7 @@ The other day this gender neutral person threw a baby goat at me. I said "Are yo
 Promising thread. Keep them cumming!
 
 #15 
-Le professeur demande 'a petit Joe de faire une Joke avec Carottr
+Le professeur demande à petit Joe de faire une Joke avec Carotte
 "Ma soeur a mangé des concombres hier`
 hein?
 ...depuis ce temp là qua rotte..
