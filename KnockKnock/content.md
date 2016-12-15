@@ -76,4 +76,13 @@ Come in, its open!
 ?!
 
 
+#8
+Knock! Knock!
 
+Who’s there?
+
+Orange.
+
+Orange who?
+
+Orange you glad I didn't say "banana"?

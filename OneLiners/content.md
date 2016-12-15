@@ -43,4 +43,15 @@ Le professeur demande 'a petit Joe de faire une Joke avec Carottr
 hein?
 ...depuis ce temp là qua rotte..
 
+#14
+Promising thread. Keep them cumming!
+
+#15
+You grow on people....so does cancer.
+
+#16
+Le professeur demande 'a petit Joe de faire une Joke avec Carottr
+"Ma soeur a mangé des concombres hier`
+hein?
+...depuis ce temp là qua rotte..
 
