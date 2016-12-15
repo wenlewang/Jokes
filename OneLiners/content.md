@@ -1,4 +1,4 @@
-﻿ # One Liners
+ # One Liners
 
 #1
 
@@ -39,3 +39,9 @@ Promising thread. Keep them cumming!
 
 #13
 You grow on people....so does cancer.
+
+#14
+Le professeur demande 'a petit Joe de faire une Joke avec Carottr
+"Ma soeur a mangé des concombres hier`
+hein?
+...depuis ce temp là qua rotte..
