@@ -37,3 +37,6 @@ I had an argument with one of the Seven Dwarves. He wasn’t happy.
 #12
 I was walking down the street about 700m above sea level. It was a high street.
 
+#13
+The other day this guy threw a baby goat at me. I said "Are you kidding me!"
+
