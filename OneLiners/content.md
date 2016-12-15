@@ -33,3 +33,7 @@ I went to buy some camouflage trousers the other day but I couldn't find any.
 
 #11
 I had an argument with one of the Seven Dwarves. He wasn’t happy.
+
+#12
+I was walking down the street about 700m above sea level. It was a high street.
+
