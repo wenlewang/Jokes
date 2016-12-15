@@ -35,23 +35,20 @@ I went to buy some camouflage trousers the other day but I couldn't find any.
 I had an argument with one of the Seven Dwarves. He wasn’t happy.
 
 #12
-another oneliner..!
+I was walking down the street about 700m above sea level. It was a high street.
 
-#13 
-Le professeur demande 'a petit Joe de faire une Joke avec Carottr
-"Ma soeur a mangé des concombres hier`
-hein?
-...depuis ce temp là qua rotte..
+#13
+The other day this gender neutral person threw a baby goat at me. I said "Are you kidding me!"
 
-#14
+#14 
 Promising thread. Keep them cumming!
 
-#15
-You grow on people....so does cancer.
-
-#16
+#15 
 Le professeur demande 'a petit Joe de faire une Joke avec Carottr
 "Ma soeur a mangé des concombres hier`
 hein?
 ...depuis ce temp là qua rotte..
+
+#16
+You grow on people....so does cancer.
 
