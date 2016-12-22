@@ -53,4 +53,22 @@ hein?
 You grow on people....so does cancer.
 
 #17
-What do you tell someone you didn't see at New Year's Eve? I haven't seen you for a year!
+What do you tell someone you didn't see at New Year's Eve? I haven't seen you since last year!
+
+#18
+My wife... its difficult to say what she does... she sells seashells on the seashore. (Milton Jones)
+
+#19
+If they make it illegal to wear the veil at work, bee keepers are going to be furious. (Milton Jones)
+
+#20
+My grandfather invented the cold air balloon... But it never really took off. (Milton Jones)
+
+#21
+Knock, Knock? ... I forget the rest of it..
+
+#22
+Beijing's weather is perfect.
+
+#23 
+I have a new theory on inertia but it does not seem to be gaining momentum.
