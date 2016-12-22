@@ -61,3 +61,6 @@ My wife... its difficult to say what she does... she sells seashells on the seas
 #19
 If they make it illegal to wear the veil at work, bee keepers are going to be furious. (Milton Jones)
 
+#20
+My grandfather invented the cold air balloon... But it never really took off. (Milton Jones)
+
