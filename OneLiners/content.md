@@ -54,3 +54,6 @@ You grow on people....so does cancer.
 
 #17
 What do you tell someone you didn't see at New Year's Eve? I haven't seen you for a year!
+
+#18 
+I have a new theory on inertia but it does not seem to be gaining momentum.
