@@ -60,3 +60,6 @@ Knock, Knock? ... I forget the rest of it..
 
 #19
 Beijing's weather is perfect.
+
+#20 
+I have a new theory on inertia but it does not seem to be gaining momentum.
