@@ -72,3 +72,7 @@ Beijing's weather is perfect.
 
 #23 
 I have a new theory on inertia but it does not seem to be gaining momentum.
+
+#24
+I keep a lighter in my back pocket all the time. I'm not a smoker, I just really like certain songs. (Dimitri Martin)
+
