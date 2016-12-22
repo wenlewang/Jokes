@@ -64,3 +64,5 @@ If they make it illegal to wear the veil at work, bee keepers are going to be fu
 #20
 My grandfather invented the cold air balloon... But it never really took off. (Milton Jones)
 
+#21
+I have a new theory on inertia but it does not seem to be gaining momentum.
