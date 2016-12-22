@@ -54,3 +54,6 @@ You grow on people....so does cancer.
 
 #17
 What do you tell someone you didn't see at New Year's Eve? I haven't seen you for a year!
+
+#18
+Knock, Knock? ... I forget the rest of it..
