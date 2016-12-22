@@ -57,3 +57,6 @@ What do you tell someone you didn't see at New Year's Eve? I haven't seen you fo
 
 #18
 Knock, Knock? ... I forget the rest of it..
+
+#19
+Beijing's weather is perfect.
