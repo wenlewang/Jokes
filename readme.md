@@ -50,7 +50,8 @@ Do not expect any funny jokes here. But there are a few surprises.
 16. Karen Tam
 17. Sean Donnelly
 18. Olivia
-19. ADD YOUR NAME HERE (Then move this line down one, and fix teh numbering)
+19. ADD YOUR NAME HERE (Then move this line down one, and fix the numbering)
+
 
 
 
