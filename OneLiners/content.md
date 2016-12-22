@@ -57,3 +57,7 @@ What do you tell someone you didn't see at New Year's Eve? I haven't seen you fo
 
 #18
 My wife... its difficult to say what she does... she sells seashells on the seashore. (Milton Jones)
+
+#19
+If they make it illegal to wear the veil at work, bee keepers are going to be furious. (Milton Jones)
+
